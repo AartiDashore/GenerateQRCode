@@ -4,7 +4,7 @@ This is a simple QR code generator. This python code will convert a website into
 
 ## Installations
 
-This pyhton program requires you to install ```pyqrcode```.
+This python program requires you to install ```pyqrcode```.
 
 ```
 pip install prqrcode
